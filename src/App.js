@@ -18,7 +18,11 @@ function App() {
           Learn React with Acámica
         </a>
       </header>
+      <div>
+        <p>Hola Mundo</p>
+      </div>
     </div>
+    
   );
 }
 
